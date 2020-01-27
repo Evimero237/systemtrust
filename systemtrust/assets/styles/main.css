@@ -2564,7 +2564,7 @@ fieldset[disabled] .form-control:hover {
   border-bottom: 1px solid #ececec;
   border-radius: 0;
   background: #fff;
-  opacity: .8;
+  /* opacity: .8; */
 }
 
 .navbar .navbar-header {
@@ -2649,8 +2649,8 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar .navbar-nav .dropdown .dropdown-menu {
-  margin-top: 12px;
-  padding: 20px 0 10px 0;
+  /* margin-top: 12px;
+  padding: 20px 0 10px 0; */
   border: 1px solid #ececec;
   border-radius: 0;
   box-shadow: none;
@@ -9413,6 +9413,28 @@ form .input-error-2:focus {
   z-index: 101;
 }
 
+.shop-product-card .product-image-wrapper .sale-label2 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  background: #3c763d;
+  z-index: 101;
+}
+
+.shop-product-card .product-image-wrapper .sale-label3 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  background: #FCD741;
+  z-index: 101;
+}
+
 .shop-product-card .product-image-wrapper .buy-btn {
   display: inline-block;
   position: absolute;
@@ -9500,14 +9522,14 @@ form .input-error-2:focus {
 }
 
 .shop-product-card .product-meta {
-  text-align: center;
+  /* text-align: center; */
   padding-top: 15px;
   padding-bottom: 20px;
 }
 
 .shop-product-card .product-meta .product-name, .shop-product-card .product-meta .product-price {
   display: block;
-  padding-bottom: 1px;
+  padding: 5px 15px 5px 15px;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 400;
   font-size: 14px;
