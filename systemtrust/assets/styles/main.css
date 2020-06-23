@@ -7942,7 +7942,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-1 {
-  background: url(../images/hero/hero-shore.jpg);
+  background: url(https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
 }
 
@@ -7969,7 +7969,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-2 {
-  background: url(../images/hero/fs-slider.jpg);
+  background: url(https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
 }
 
@@ -8067,7 +8067,7 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-1, .fw-slider-hero .fw-slide-3 {
-  background: url(../images/hero/man-rocks.jpg);
+  background: url(https://images.unsplash.com/photo-1558449028-b53a39d100fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80);
   background-size: cover;
   background-position: 50%;
 }
@@ -8091,7 +8091,7 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-2 {
-  background: url(../images/hero/edge.jpg);
+  background: url(https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
   background-position: 50%;
 }
@@ -8100,32 +8100,23 @@ form .input-error-2:focus {
   background: rgba(17, 17, 17, 0.75);
 }
 
-.fw-slider-hero .fw-slide-2 .hero-content-wrapper {
-  padding-left: 10%;
-}
-
-.fw-slider-hero .fw-slide-2 .hero-content-wrapper .hero-content {
-  text-align: left !important;
-}
-
 .fw-slider-hero .fw-slide-2 .hero-content-wrapper .hero-content .hero-lead {
+  margin-top: 40px;
   margin-bottom: 50px;
-  font-size: 5em;
-  font-weight: 700;
-  letter-spacing: 5px;
-  color: #ececec;
 }
 
 .fw-slider-hero .fw-slide-2 .hero-content-wrapper .hero-content .hero-subheading {
-  margin-top: 0;
-  margin-bottom: 30px;
-  color: #999;
+  margin: 0;
 }
 
 .fw-slider-hero .fw-slide-3 {
-  background: url(../images/hero/coffe.jpg);
+  background: url(https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
   background-position: 50%;
+}
+
+.fw-slider-hero .fw-slide-3 .bg-overlay {
+  background: rgba(17, 17, 17, 0.75);
 }
 
 .fw-slider-hero .fw-slide-3 .hero-content-wrapper .hero-content .hero-lead {
@@ -8134,6 +8125,25 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-3 .hero-content-wrapper .hero-content .hero-subheading {
+  margin: 0;
+}
+
+.fw-slider-hero .fw-slide-4 {
+  background: url(https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+  background-size: cover;
+  background-position: 50%;
+}
+
+.fw-slider-hero .fw-slide-4 .bg-overlay {
+  background: rgba(17, 17, 17, 0.75);
+}
+
+.fw-slider-hero .fw-slide-4 .hero-content-wrapper .hero-content .hero-lead {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.fw-slider-hero .fw-slide-4 .hero-content-wrapper .hero-content .hero-subheading {
   margin: 0;
 }
 
