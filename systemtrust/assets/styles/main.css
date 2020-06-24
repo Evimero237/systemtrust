@@ -1261,7 +1261,7 @@ mark {
 
 /* ---- 1.1 Text ---- */
 body, .testimonials-3col .t-item blockquote, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   font-weight: 300;
   letter-spacing: 0.2px;
