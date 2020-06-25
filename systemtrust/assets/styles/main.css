@@ -274,7 +274,7 @@ hr {
 }
 
 .dark-bg .subheading {
-  color: #777 !important;
+  color: #fff !important;
   font-weight: 400;
 }
 
@@ -595,7 +595,7 @@ hr {
   text-transform: uppercase;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 300;
-  color: #999;
+  color: #000;
   letter-spacing: 2.5px;
 }
 
@@ -1054,7 +1054,7 @@ hr {
 
 .sec-heading-2 .subheading {
   font-size: 1.3em;
-  color: #999;
+  color: #000;
 }
 
 .sec-heading-top-m h1:first-child,
@@ -1261,12 +1261,12 @@ mark {
 
 /* ---- 1.1 Text ---- */
 body, .testimonials-3col .t-item blockquote, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   font-weight: 300;
   letter-spacing: 0.2px;
   line-height: 1.8em;
-  color: #777;
+  color: #fff;
 }
 
 h1,
@@ -1396,7 +1396,7 @@ blockquote footer:before, .wrapper-404 .content-wrapper .info-wrapper .info-404 
 
 blockquote footer cite, .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .bg-maintenance .content-wrapper .content-inner p footer cite {
   text-transform: uppercase;
-  color: #999;
+  color: #000;
   font-style: normal;
   font-size: .85em;
   letter-spacing: 2px;
@@ -1566,11 +1566,11 @@ input[class="btn-ghost"]:after {
 .btn-text, .btn-text-light {
   background: none;
   border: 2px solid rgba(17, 17, 17, 0);
-  color: #777;
+  color: #fff;
 }
 
 .btn-text:visited, .btn-text-light:visited {
-  color: #777;
+  color: #fff;
   background: none;
 }
 
@@ -1687,7 +1687,7 @@ input[class="btn-ghost-light"]:hover {
   width: 42px;
   line-height: 1.9em;
   font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-  color: #777;
+  color: #fff;
 }
 
 .pagination li a i {
@@ -1745,7 +1745,7 @@ input[class="btn-ghost-light"]:hover {
 .form-control:hover {
   outline: none;
   box-shadow: none;
-  border-color: #777;
+  border-color: #fff;
 }
 
 input[type="file"] {
@@ -1851,12 +1851,12 @@ fieldset[disabled] .form-control:hover {
 }
 
 .faq-contact-links {
-  color: #999;
+  color: #000;
   font-size: .9em;
 }
 
 .faq-contact-links i {
-  color: #999;
+  color: #000;
 }
 
 .faq-contact-links a {
@@ -1943,7 +1943,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .breadcrumb li a {
-  color: #999;
+  color: #000;
 }
 
 .breadcrumb li a:focus {
@@ -1955,11 +1955,11 @@ fieldset[disabled] .form-control:hover {
 }
 
 .breadcrumb li + li:before {
-  color: #777;
+  color: #fff;
 }
 
 .breadcrumb .active {
-  color: #777;
+  color: #fff;
 }
 
 /* ---- 4.2 Header/Page Title ---- */
@@ -1979,11 +1979,11 @@ fieldset[disabled] .form-control:hover {
   margin: 20px 0 0 0;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 300;
-  color: #777;
+  color: #fff;
 }
 
 .page-title .breadcrumb li a {
-  color: #777;
+  color: #fff;
 }
 
 .page-title .breadcrumb li a:hover {
@@ -1991,7 +1991,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .page-title .breadcrumb .active {
-  color: #999;
+  color: #000;
 }
 
 /* ---- 4.3 Header/Page Title Styles ---- */
@@ -2004,7 +2004,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-dark .breadcrumb li a {
-  color: #999;
+  color: #000;
 }
 
 .pt-dark .breadcrumb li a:hover {
@@ -2012,7 +2012,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-dark .breadcrumb .active {
-  color: #777;
+  color: #fff;
 }
 
 /* ---- 4.4 Header/Page Title Sizes ---- */
@@ -2122,7 +2122,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .copyright .to-the-top {
-  color: #777;
+  color: #fff;
 }
 
 .copyright .to-the-top i {
@@ -2145,7 +2145,7 @@ fieldset[disabled] .form-control:hover {
   display: inline-block;
   padding-right: 35px;
   margin-right: 35px;
-  border-right: 1px solid #777;
+  border-right: 1px solid #fff;
 }
 
 .footer-social-links ul li:last-child {
@@ -2160,7 +2160,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .footer-social-links ul li a:hover {
-  color: #999;
+  color: #000;
 }
 
 .footer-social-links ul li a:focus {
@@ -2202,7 +2202,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .footer-widgets .about-widget .social-links li a {
-  color: #777;
+  color: #fff;
 }
 
 .footer-widgets .about-widget .social-links li a:hover {
@@ -2450,7 +2450,7 @@ fieldset[disabled] .form-control:hover {
   display: block;
   margin-bottom: 30px;
   padding: 7px 0 7px 20px;
-  border-left: 1px solid #777;
+  border-left: 1px solid #fff;
 }
 
 .footer-contact .contact-info address ul li .adr-heading {
@@ -2462,7 +2462,7 @@ fieldset[disabled] .form-control:hover {
   font-size: .9em;
   letter-spacing: 1.7px;
   text-transform: uppercase;
-  color: #999;
+  color: #000;
 }
 
 .footer-contact .contact-info address .show-map {
@@ -2479,7 +2479,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .footer-contact .contact-info address .show-map:hover {
-  color: #999;
+  color: #000;
 }
 
 .footer-contact .contact-info address .show-map:focus {
@@ -2552,7 +2552,7 @@ fieldset[disabled] .form-control:hover {
   font-size: .9em;
   letter-spacing: 1.7px;
   text-transform: uppercase;
-  color: #999;
+  color: #000;
 }
 
 /* --------------------------------------------------
@@ -2560,10 +2560,10 @@ fieldset[disabled] .form-control:hover {
 -------------------------------------------------- */
 .navbar {
   margin-bottom: 0;
-  min-height: 75px;
-  border-bottom: 1px solid #ececec;
+  min-height: 100px;
+  border-bottom: 1px solid rgba(36, 36, 36, 0.747);
   border-radius: 0;
-  background: #fff;
+  background: rgba(36, 36, 36, 0.747);
   /* opacity: .8; */
 }
 
@@ -2582,11 +2582,10 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar .navbar-nav li a {
-  text-transform: uppercase;
-  font-size: 0.8em;
+  font-size: 1em;
   font-weight: 400;
   letter-spacing: 2px;
-  color: #999;
+  color: #fff;
   -webkit-transition: color 0.5s;
           transition: color 0.5s;
 }
@@ -2615,7 +2614,7 @@ fieldset[disabled] .form-control:hover {
   right: -8px;
   border-radius: 100px;
   background: #EF413F;
-  color: #fff;
+  color: #111;
   font-size: 10px;
   line-height: 16px;
   text-align: center;
@@ -2651,7 +2650,7 @@ fieldset[disabled] .form-control:hover {
 .navbar .navbar-nav .dropdown .dropdown-menu {
   /* margin-top: 12px;
   padding: 20px 0 10px 0; */
-  border: 1px solid #ececec;
+  border: 1px solid #111;
   border-radius: 0;
   box-shadow: none;
   background: rgba(255, 255, 255, 0.93);
@@ -2723,7 +2722,7 @@ fieldset[disabled] .form-control:hover {
 
 .navbar .navbar-nav .dropdown .cart-dropdown {
   width: 290px;
-  background: #fff;
+  background: #111;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-sep-top {
@@ -2777,14 +2776,14 @@ fieldset[disabled] .form-control:hover {
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-item .cp-price {
   font-size: 12px;
   letter-spacing: 1px;
-  color: #999;
+  color: #000;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-item .cart-remove-btn {
   padding: 0;
   float: right;
   font-size: 16px;
-  color: #777;
+  color: #fff;
   border: none;
   background: none;
 }
@@ -2808,7 +2807,7 @@ fieldset[disabled] .form-control:hover {
   float: right;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 400;
-  color: #777;
+  color: #fff;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns {
@@ -2953,7 +2952,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar-inverse .navbar-nav li a {
-  color: #777;
+  color: #fff;
 }
 
 .navbar-inverse .navbar-nav li a:hover {
@@ -3155,7 +3154,7 @@ fieldset[disabled] .form-control:hover {
   padding-top: 50px;
   display: block;
   text-align: right;
-  color: #999;
+  color: #000;
 }
 
 .ft-cards .ft-item a:hover {
@@ -3209,14 +3208,14 @@ fieldset[disabled] .form-control:hover {
 
 .ft-cards-2 .ft-card-item .ft-content p {
   margin: 0;
-  color: #999;
+  color: #000;
 }
 
 .ft-cards-2 .ft-card-item .ft-content .link-btn {
   display: inline-block;
   margin-top: 30px;
   float: right;
-  color: #777;
+  color: #fff;
   -webkit-transform: translateX(30px);
       -ms-transform: translateX(30px);
           transform: translateX(30px);
@@ -3316,7 +3315,7 @@ fieldset[disabled] .form-control:hover {
   border: 1px solid #f8f8f8;
   border-radius: 100px;
   background: #fff;
-  color: #777;
+  color: #fff;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   -webkit-transition: all 0.3s;
           transition: all 0.3s;
@@ -3442,7 +3441,7 @@ fieldset[disabled] .form-control:hover {
   height: auto;
   line-height: 0;
   font-size: 64px;
-  color: #777;
+  color: #fff;
   -webkit-transition: color 0.7s;
           transition: color 0.7s;
 }
@@ -3600,11 +3599,11 @@ fieldset[disabled] .form-control:hover {
 
 .ft-boxed-hover ul li .ft-icon {
   font-size: 56px;
-  color: #777;
+  color: #fff;
 }
 
 .ft-boxed-hover ul li .h-alt {
-  color: #999;
+  color: #000;
 }
 
 .ft-boxed-hover ul li .hover-content {
@@ -3641,14 +3640,14 @@ fieldset[disabled] .form-control:hover {
 
 .ft-boxed-hover ul li .hover-content p {
   margin: 0;
-  color: #999;
+  color: #000;
 }
 
 .ft-boxed-hover ul li .hover-content a {
   display: inline-block;
   position: relative;
   margin-top: 20px;
-  color: #999;
+  color: #000;
   z-index: 10 !important;
 }
 
@@ -3711,7 +3710,7 @@ fieldset[disabled] .form-control:hover {
 .ft-tabs .tabs-list li a .tab-group .tab-info {
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   letter-spacing: 2px;
-  color: #999;
+  color: #000;
 }
 
 .ft-tabs .tabs-list .active a {
@@ -3844,7 +3843,7 @@ fieldset[disabled] .form-control:hover {
 .ft-layout-50 .ft-item .ft-content-wrapper .contact-1 .contact-wrapper .contact-info-wrapper address .address-group p, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group .ft-layout-50 .ft-item .ft-content-wrapper p, .ft-layout-50 .ft-item .ft-content-wrapper .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link a, .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link .ft-layout-50 .ft-item .ft-content-wrapper a, .ft-layout-50 .ft-item .ft-content-wrapper .landing-hero .heading-wrapper .cta-btn, .landing-hero .heading-wrapper .ft-layout-50 .ft-item .ft-content-wrapper .cta-btn, .ft-layout-50 .ft-item .ft-content-wrapper .shop-sidebar .filter-widget label, .shop-sidebar .filter-widget .ft-layout-50 .ft-item .ft-content-wrapper label, .ft-layout-50 .ft-item .ft-content-wrapper .shop-sidebar-vertical .filter-widget label, .shop-sidebar-vertical .filter-widget .ft-layout-50 .ft-item .ft-content-wrapper label, .ft-layout-50 .ft-item .ft-content-wrapper .shop-sidebar .tags-widget .tag-list li a, .shop-sidebar .tags-widget .tag-list li .ft-layout-50 .ft-item .ft-content-wrapper a, .ft-layout-50 .ft-item .ft-content-wrapper .shop-sidebar-vertical .tags-widget .tag-list li a, .shop-sidebar-vertical .tags-widget .tag-list li .ft-layout-50 .ft-item .ft-content-wrapper a, .ft-layout-50 .ft-item .ft-content-wrapper .checkout-table tbody tr td:first-child, .checkout-table tbody tr .ft-layout-50 .ft-item .ft-content-wrapper td:first-child, .ft-layout-50 .ft-item .ft-content-wrapper .prod-reviews .tp-review .tpr-name, .prod-reviews .tp-review .ft-layout-50 .ft-item .ft-content-wrapper .tpr-name {
   margin-top: 15px;
   margin-bottom: 50px;
-  color: #999;
+  color: #000;
 }
 
 .ft-layout-50 .ft-item .ft-content-wrapper p {
@@ -4084,7 +4083,7 @@ fieldset[disabled] .form-control:hover {
 .ft-big-img-left .ft-content .h-alt {
   margin: 0;
   padding-bottom: 45px;
-  color: #999;
+  color: #000;
 }
 
 .ft-big-img-left .ft-content .btn, .ft-big-img-left .ft-content .btn-ghost, .ft-big-img-left .ft-content .btn-ghost-light, .ft-big-img-left .ft-content .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .ft-big-img-left .ft-content .btn-ghost-light, .ft-big-img-left .ft-content .btn-text, .ft-big-img-left .ft-content .btn-text-light, .ft-big-img-left .ft-content .btn-light, .ft-big-img-left .ft-content .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .ft-big-img-left .ft-content .btn-ghost, .ft-big-img-left .ft-content .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .ft-big-img-left .ft-content .btn-light {
@@ -4119,7 +4118,7 @@ fieldset[disabled] .form-control:hover {
 .ft-big-img-right .ft-content .h-alt {
   margin: 0;
   padding-bottom: 45px;
-  color: #999;
+  color: #000;
 }
 
 .ft-big-img-right .ft-content .btn, .ft-big-img-right .ft-content .btn-ghost, .ft-big-img-right .ft-content .btn-ghost-light, .ft-big-img-right .ft-content .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .ft-big-img-right .ft-content .btn-ghost-light, .ft-big-img-right .ft-content .btn-text, .ft-big-img-right .ft-content .btn-text-light, .ft-big-img-right .ft-content .btn-light, .ft-big-img-right .ft-content .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .ft-big-img-right .ft-content .btn-ghost, .ft-big-img-right .ft-content .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .ft-big-img-right .ft-content .btn-light {
@@ -4140,7 +4139,7 @@ fieldset[disabled] .form-control:hover {
 .ft-img-left .ft-content .h-alt {
   margin: 0;
   padding-bottom: 45px;
-  color: #999;
+  color: #000;
 }
 
 .ft-img-left .ft-content .btn, .ft-img-left .ft-content .btn-ghost, .ft-img-left .ft-content .btn-ghost-light, .ft-img-left .ft-content .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost-light, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .ft-img-left .ft-content .btn-ghost-light, .ft-img-left .ft-content .btn-text, .ft-img-left .ft-content .btn-text-light, .ft-img-left .ft-content .btn-light, .ft-img-left .ft-content .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-ghost, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .ft-img-left .ft-content .btn-ghost, .ft-img-left .ft-content .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .btn-light, .navbar .navbar-nav .dropdown .cart-dropdown .cart-btns .ft-img-left .ft-content .btn-light {
@@ -4166,7 +4165,7 @@ fieldset[disabled] .form-control:hover {
   font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 11px;
   letter-spacing: 2px;
-  color: #999;
+  color: #000;
   text-transform: uppercase;
 }
 
@@ -4193,7 +4192,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-icon-gray {
-  color: #999;
+  color: #000;
 }
 
 .ft-icon-dark {
@@ -4540,7 +4539,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .testimonials-3col .t-item blockquote, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p {
-  color: #999;
+  color: #000;
 }
 
 .testimonials-3col .t-item blockquote p, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 p, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 p, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p p, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p p {
@@ -4572,7 +4571,7 @@ fieldset[disabled] .form-control:hover {
 
 .testimonials-3col .t-item blockquote footer cite, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer cite, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer cite {
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
-  color: #777;
+  color: #fff;
 }
 
 .testimonials-3col .t-item blockquote footer cite span, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite span, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer cite span, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer cite span, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer cite span {
@@ -4584,7 +4583,7 @@ fieldset[disabled] .form-control:hover {
 
 .testimonials-3col .t-item .t-icon {
   font-size: 32px;
-  color: #999;
+  color: #000;
 }
 
 .testimonials-3col .t-clients {
@@ -4632,7 +4631,7 @@ fieldset[disabled] .form-control:hover {
   margin-top: -20px;
   width: 40px;
   height: 40px;
-  border: 2px solid #777;
+  border: 2px solid #fff;
   background: none;
   opacity: 0;
   -webkit-transition: all 0.3s;
@@ -4693,7 +4692,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .clients-list-gray .c-wrapper .clients-slider-nav {
-  border: 2px solid #777;
+  border: 2px solid #fff;
   -webkit-transition: all 0.3s;
           transition: all 0.3s;
 }
@@ -4852,7 +4851,7 @@ fieldset[disabled] .form-control:hover {
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 13px;
   letter-spacing: 3.5px;
-  color: #999;
+  color: #000;
 }
 
 .team-3col .t-item .t-info .social-links, .team-4col .t-item .t-info .social-links, .freelancer-about .t-item .t-info .social-links {
@@ -4873,7 +4872,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .team-3col .t-item .t-info .social-links li a:hover, .team-4col .t-item .t-info .social-links li a:hover, .freelancer-about .t-item .t-info .social-links li a:hover {
-  color: #999;
+  color: #000;
 }
 
 /* ---- 14.2 Team - 4 Columns ---- */
@@ -4949,7 +4948,7 @@ fieldset[disabled] .form-control:hover {
 
 .t-join .t-image .t-description p {
   margin: 0;
-  color: #999;
+  color: #000;
 }
 
 .t-join .t-info {
@@ -4967,7 +4966,7 @@ fieldset[disabled] .form-control:hover {
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 12px;
   letter-spacing: 3.5px;
-  color: #999;
+  color: #000;
 }
 
 /* ---- 14.3 Freelancer ---- */
@@ -5050,7 +5049,7 @@ fieldset[disabled] .form-control:hover {
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-size: .85em;
   letter-spacing: 2.5px;
-  color: #777;
+  color: #fff;
 }
 
 .portfolio-filters li a:focus,
@@ -5365,7 +5364,7 @@ fieldset[disabled] .form-control:hover {
   margin-bottom: 0;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   letter-spacing: 2.5px;
-  color: #999;
+  color: #000;
 }
 
 .portfolio-columns-fw .portfolio-item figure figcaption:hover, .portfolio-columns-boxed .portfolio-item figure figcaption:hover {
@@ -5724,7 +5723,7 @@ fieldset[disabled] .form-control:hover {
   margin-bottom: 0;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   letter-spacing: 2.5px;
-  color: #999;
+  color: #000;
 }
 
 .portfolio-masonry .p-wrapper .open-btn, .portfolio-masonry-2 .p-wrapper .open-btn, .portfolio-masonry-3 .p-wrapper .open-btn {
@@ -5808,7 +5807,7 @@ fieldset[disabled] .form-control:hover {
 
 .portfolio-1col-fw .portfolio-item figcaption .subheading, .portfolio-1col-boxed .portfolio-item figcaption .subheading {
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
-  color: #999;
+  color: #000;
   margin-bottom: 45px;
 }
 
@@ -5871,7 +5870,7 @@ fieldset[disabled] .form-control:hover {
   padding-left: 2px;
   font-size: .9em;
   text-decoration: underline;
-  color: #999;
+  color: #000;
 }
 
 .pfolio-single .project-info ul li a:hover, .pfolio-single .project-info-2 ul li a:hover {
@@ -5913,7 +5912,7 @@ fieldset[disabled] .form-control:hover {
 .pfolio-single .project-testimonial {
   padding: 30px;
   font-size: 1.2em;
-  color: #777;
+  color: #fff;
   background: #f4f4f4;
 }
 
@@ -5921,11 +5920,11 @@ fieldset[disabled] .form-control:hover {
   display: block;
   margin-bottom: 30px;
   font-size: 32px;
-  color: #777;
+  color: #fff;
 }
 
 .pfolio-single .project-testimonial footer {
-  color: #777;
+  color: #fff;
   line-height: 1.2;
 }
 
@@ -6255,7 +6254,7 @@ fieldset[disabled] .form-control:hover {
   vertical-align: bottom;
   font-size: 15px;
   font-weight: 300;
-  color: #999;
+  color: #000;
 }
 
 .pricing-tables .p-table .price .value {
@@ -6277,7 +6276,7 @@ fieldset[disabled] .form-control:hover {
   margin-bottom: 0;
   padding-bottom: 20px;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
-  color: #777;
+  color: #fff;
 }
 
 .pricing-tables .p-table .p-items {
@@ -6370,11 +6369,11 @@ fieldset[disabled] .form-control:hover {
   width: 600px;
   background: none;
   border: none;
-  border-bottom: 2px solid #777;
+  border-bottom: 2px solid #fff;
   font-size: 2.6em;
   font-weight: 400;
   text-align: center;
-  color: #999;
+  color: #000;
   -webkit-transition: border-color 0.4s;
           transition: border-color 0.4s;
 }
@@ -6436,7 +6435,7 @@ fieldset[disabled] .form-control:hover {
 .blog-pagination .pagination li a {
   border: none;
   background: none;
-  color: #999;
+  color: #000;
   font-size: 1.2em;
 }
 
@@ -6453,7 +6452,7 @@ fieldset[disabled] .form-control:hover {
 .blog-post-nav .prev-btn,
 .blog-post-nav .next-btn {
   display: inline-block;
-  color: #999;
+  color: #000;
 }
 
 .blog-post-nav .prev-btn:hover,
@@ -6529,7 +6528,7 @@ fieldset[disabled] .form-control:hover {
   letter-spacing: 2px;
   text-transform: uppercase;
   vertical-align: middle;
-  color: #999;
+  color: #000;
   -webkit-transition: color 0.3s;
           transition: color 0.3s;
 }
@@ -6636,7 +6635,7 @@ fieldset[disabled] .form-control:hover {
   letter-spacing: 2px;
   text-transform: uppercase;
   vertical-align: middle;
-  color: #999;
+  color: #000;
   -webkit-transition: color 0.3s;
           transition: color 0.3s;
 }
@@ -6695,7 +6694,7 @@ fieldset[disabled] .form-control:hover {
 .sidebar .recent-posts-widget .widget-item .contact-1 .contact-wrapper .contact-info-wrapper address .address-group p, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group .sidebar .recent-posts-widget .widget-item p, .sidebar .recent-posts-widget .widget-item .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link a, .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link .sidebar .recent-posts-widget .widget-item a, .sidebar .recent-posts-widget .widget-item .landing-hero .heading-wrapper .cta-btn, .landing-hero .heading-wrapper .sidebar .recent-posts-widget .widget-item .cta-btn, .sidebar .recent-posts-widget .widget-item .shop-sidebar .filter-widget label, .shop-sidebar .filter-widget .sidebar .recent-posts-widget .widget-item label, .sidebar .recent-posts-widget .widget-item .shop-sidebar-vertical .filter-widget label, .shop-sidebar-vertical .filter-widget .sidebar .recent-posts-widget .widget-item label, .shop-sidebar .tags-widget .tag-list li .sidebar .recent-posts-widget .widget-item a, .shop-sidebar-vertical .tags-widget .tag-list li .sidebar .recent-posts-widget .widget-item a, .sidebar .recent-posts-widget .widget-item .checkout-table tbody tr td:first-child, .checkout-table tbody tr .sidebar .recent-posts-widget .widget-item td:first-child, .sidebar .recent-posts-widget .widget-item .prod-reviews .tp-review .tpr-name, .prod-reviews .tp-review .sidebar .recent-posts-widget .widget-item .tpr-name {
   margin-top: 0;
   margin-bottom: 0;
-  color: #777;
+  color: #fff;
 }
 
 .sidebar .recent-posts-widget .widget-item span {
@@ -6717,7 +6716,7 @@ fieldset[disabled] .form-control:hover {
   margin-bottom: 5px;
   font-size: .9em;
   letter-spacing: .3px;
-  color: #777;
+  color: #fff;
   border-bottom: 1px solid rgba(17, 17, 17, 0);
   -webkit-transition: all 0.3s;
           transition: all 0.3s;
@@ -6749,13 +6748,13 @@ fieldset[disabled] .form-control:hover {
   margin-bottom: 5px;
   border: 1px solid #ccc;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
-  color: #999;
+  color: #000;
   -webkit-transition: all 0.5s;
           transition: all 0.5s;
 }
 
 .sidebar .tags-widget .tag-list li a:hover {
-  border-color: #777;
+  border-color: #fff;
   color: #111;
 }
 
@@ -6803,7 +6802,7 @@ fieldset[disabled] .form-control:hover {
 .sidebar .comments-widget .widget-item span .widget-comm-title {
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   letter-spacing: 1.5px;
-  color: #777;
+  color: #fff;
 }
 
 /* ---- 18.6 Comments ---- */
@@ -6848,7 +6847,7 @@ fieldset[disabled] .form-control:hover {
 
 .blog-post-comments .bp-comment .comment-info .comment-name, .blog-post-comments .bp-comment-reply .comment-info .comment-name {
   display: inline-block;
-  color: #999;
+  color: #000;
 }
 
 .blog-post-comments .bp-comment .comment-info .comment-time, .blog-post-comments .bp-comment-reply .comment-info .comment-time {
@@ -6871,7 +6870,7 @@ fieldset[disabled] .form-control:hover {
   font-size: .8em;
   line-height: 1em;
   letter-spacing: 2px;
-  color: #999;
+  color: #000;
   -webkit-transition: all 0.3s;
           transition: all 0.3s;
 }
@@ -6939,7 +6938,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .social-wrapper .social-links li a:hover {
-  color: #999;
+  color: #000;
 }
 
 form .alert-error {
@@ -6999,7 +6998,7 @@ form .input-error-2:focus {
   margin-bottom: 3px;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 300;
-  color: #999;
+  color: #000;
 }
 
 .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link a {
@@ -7014,7 +7013,7 @@ form .input-error-2:focus {
 }
 
 .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link a:hover {
-  color: #999;
+  color: #000;
 }
 
 .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link a span {
@@ -7095,7 +7094,7 @@ form .input-error-2:focus {
   padding-right: 20px;
   height: 50px;
   font-size: 32px;
-  color: #777;
+  color: #fff;
   float: left;
 }
 
@@ -7114,7 +7113,7 @@ form .input-error-2:focus {
   font-size: .8em;
   line-height: 1;
   letter-spacing: 1px;
-  color: #777;
+  color: #fff;
 }
 
 .contact-2 form .alert {
@@ -7146,7 +7145,7 @@ form .input-error-2:focus {
 }
 
 .contact-3 .form-wrapper p {
-  color: #999;
+  color: #000;
 }
 
 .contact-3 .form-wrapper .form-group {
@@ -7165,7 +7164,7 @@ form .input-error-2:focus {
 .contact-3 .form-wrapper .form-minimal input[type="tel"],
 .contact-3 .form-wrapper .form-minimal textarea {
   border: none;
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid #000;
 }
 
 .contact-3 .form-wrapper .form-minimal input[type="text"]:focus,
@@ -7235,7 +7234,7 @@ form .input-error-2:focus {
 }
 
 .login-1 .panel-group .panel .panel-collapse .panel-body .form-login .forget-pass-link {
-  color: #999;
+  color: #000;
   padding-bottom: 4px;
   border-bottom: 1px solid rgba(17, 17, 17, 0);
   -webkit-transition: all 0.3s;
@@ -7272,7 +7271,7 @@ form .input-error-2:focus {
 
 .login-1 .panel-group .bottom-panel .panel-body {
   padding-bottom: 100px;
-  color: #999 !important;
+  color: #000 !important;
 }
 
 .login-1 .panel-group .panel + .panel {
@@ -7325,7 +7324,7 @@ form .input-error-2:focus {
 }
 
 .login-2 .bg-overlay .form-wrapper .form-content .forget-pass-link {
-  color: #999;
+  color: #000;
   padding-bottom: 4px;
   border-bottom: 1px solid rgba(17, 17, 17, 0);
   -webkit-transition: all 0.3s;
@@ -7343,7 +7342,7 @@ form .input-error-2:focus {
   margin-top: 50px;
   margin-bottom: 30px;
   text-align: center;
-  color: #999;
+  color: #000;
 }
 
 .login-2 .bg-overlay .form-wrapper .social-signup {
@@ -7380,7 +7379,7 @@ form .input-error-2:focus {
 
 .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-info {
   bottom: 35px;
-  color: #999;
+  color: #000;
 }
 
 .login-2 .bg-overlay .form-wrapper .social-signup .social-card i {
@@ -7468,7 +7467,7 @@ form .input-error-2:focus {
 }
 
 .comingsoon .content-wrapper .content-inner header p {
-  color: #999;
+  color: #000;
 }
 
 .comingsoon .content-wrapper .content-inner .cs-timer {
@@ -7498,7 +7497,7 @@ form .input-error-2:focus {
 
 .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer {
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
-  color: #777;
+  color: #fff;
 }
 
 .comingsoon .content-wrapper .content-inner form h5, .comingsoon .content-wrapper .content-inner form .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .comingsoon .content-wrapper .content-inner form .ft-heading, .comingsoon .content-wrapper .content-inner form .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .comingsoon .content-wrapper .content-inner form .tab-info, .comingsoon .content-wrapper .content-inner form .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .comingsoon .content-wrapper .content-inner form .widget-comm-title, .comingsoon .content-wrapper .content-inner form .cs-timer .item .title-timer, .comingsoon .content-wrapper .content-inner .cs-timer .item form .title-timer, .comingsoon .content-wrapper .content-inner form .shop-layout-options span, .shop-layout-options .comingsoon .content-wrapper .content-inner form span {
@@ -7536,7 +7535,7 @@ form .input-error-2:focus {
 }
 
 .comingsoon-2 .content-wrapper header p {
-  color: #999;
+  color: #000;
 }
 
 .comingsoon-2 .content-wrapper form h5, .comingsoon-2 .content-wrapper form .ft-boxed-hover ul li .hover-content .ft-heading, .ft-boxed-hover ul li .hover-content .comingsoon-2 .content-wrapper form .ft-heading, .comingsoon-2 .content-wrapper form .ft-tabs .tabs-list li a .tab-group .tab-info, .ft-tabs .tabs-list li a .tab-group .comingsoon-2 .content-wrapper form .tab-info, .comingsoon-2 .content-wrapper form .sidebar .comments-widget .widget-item span .widget-comm-title, .sidebar .comments-widget .widget-item span .comingsoon-2 .content-wrapper form .widget-comm-title, .comingsoon-2 .comingsoon .content-wrapper form .content-inner .cs-timer .item .title-timer, .comingsoon .comingsoon-2 .content-wrapper form .content-inner .cs-timer .item .title-timer, .comingsoon-2 .comingsoon .content-wrapper .content-inner .cs-timer .item form .title-timer, .comingsoon .comingsoon-2 .content-wrapper .content-inner .cs-timer .item form .title-timer, .comingsoon-2 .content-wrapper form .shop-layout-options span, .shop-layout-options .comingsoon-2 .content-wrapper form span {
@@ -7639,7 +7638,7 @@ form .input-error-2:focus {
   margin-bottom: 75px;
   border-radius: 100px;
   font-size: 50px;
-  color: #777;
+  color: #fff;
   background: #ececec;
 }
 
@@ -7695,7 +7694,7 @@ form .input-error-2:focus {
 .line-icons ul li span {
   display: block;
   font-size: 50px;
-  color: #777;
+  color: #fff;
   -webkit-transition: color 0.5s;
           transition: color 0.5s;
 }
@@ -7703,7 +7702,7 @@ form .input-error-2:focus {
 .line-icons ul li p {
   margin-top: 25px;
   font-size: 1.2em;
-  color: #999;
+  color: #000;
 }
 
 /* --------------------------------------------------
@@ -7907,7 +7906,7 @@ form .input-error-2:focus {
 .main-demo-hero .hero-content-wrapper .hero-content .hero-subheading, .fs-video-hero .hero-content-wrapper .hero-content .hero-subheading, .fw-video-hero .hero-content-wrapper .hero-content .hero-subheading, .text-slider-hero .hero-content-wrapper .hero-content .hero-subheading, .freelancer-hero .hero-content-wrapper .hero-content .hero-subheading, .agency2-hero .hero-content-wrapper .hero-content .hero-subheading, .animated-hero .hero-content-wrapper .hero-content .hero-subheading, .web-app-hero .hero-content-wrapper .hero-content .hero-subheading {
   margin-top: 100px;
   margin-bottom: 20px;
-  color: #999;
+  color: #000;
 }
 
 /* ---- 20.2 Full Screen Slider ---- */
@@ -7942,7 +7941,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-1 {
-  background: url(../images/hero/hero-shore.jpg);
+  background: url(https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
 }
 
@@ -7965,11 +7964,11 @@ form .input-error-2:focus {
 .fs-slide-1 .hero-content .hero-subheading {
   margin-top: 100px;
   margin-bottom: 20px;
-  color: #999;
+  color: #000;
 }
 
 .fs-slide-2 {
-  background: url(../images/hero/fs-slider.jpg);
+  background: url(https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
 }
 
@@ -7996,7 +7995,7 @@ form .input-error-2:focus {
 .fs-slide-2 .hero-content .hero-subheading {
   margin-top: 50px;
   margin-bottom: 30px;
-  color: #999;
+  color: #000;
 }
 
 .fs-slide-3 {
@@ -8028,7 +8027,7 @@ form .input-error-2:focus {
 .fs-slide-3 .hero-content .hero-subheading {
   margin-top: 100px;
   margin-bottom: 20px;
-  color: #999;
+  color: #000;
 }
 
 /* ---- 20.3 Full Width Slider ---- */
@@ -8067,7 +8066,7 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-1, .fw-slider-hero .fw-slide-3 {
-  background: url(../images/hero/man-rocks.jpg);
+  background: url(https://images.unsplash.com/photo-1558449028-b53a39d100fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80);
   background-size: cover;
   background-position: 50%;
 }
@@ -8087,11 +8086,11 @@ form .input-error-2:focus {
 .fw-slider-hero .fw-slide-1 .hero-content-wrapper .hero-content .hero-subheading, .fw-slider-hero .fw-slide-3 .hero-content-wrapper .hero-content .hero-subheading {
   margin-top: 0;
   margin-bottom: 50px;
-  color: #999;
+  color: #000;
 }
 
 .fw-slider-hero .fw-slide-2 {
-  background: url(../images/hero/edge.jpg);
+  background: url(https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
   background-position: 50%;
 }
@@ -8100,32 +8099,23 @@ form .input-error-2:focus {
   background: rgba(17, 17, 17, 0.75);
 }
 
-.fw-slider-hero .fw-slide-2 .hero-content-wrapper {
-  padding-left: 10%;
-}
-
-.fw-slider-hero .fw-slide-2 .hero-content-wrapper .hero-content {
-  text-align: left !important;
-}
-
 .fw-slider-hero .fw-slide-2 .hero-content-wrapper .hero-content .hero-lead {
+  margin-top: 40px;
   margin-bottom: 50px;
-  font-size: 5em;
-  font-weight: 700;
-  letter-spacing: 5px;
-  color: #ececec;
 }
 
 .fw-slider-hero .fw-slide-2 .hero-content-wrapper .hero-content .hero-subheading {
-  margin-top: 0;
-  margin-bottom: 30px;
-  color: #999;
+  margin: 0;
 }
 
 .fw-slider-hero .fw-slide-3 {
-  background: url(../images/hero/coffe.jpg);
+  background: url(https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
   background-position: 50%;
+}
+
+.fw-slider-hero .fw-slide-3 .bg-overlay {
+  background: rgba(17, 17, 17, 0.75);
 }
 
 .fw-slider-hero .fw-slide-3 .hero-content-wrapper .hero-content .hero-lead {
@@ -8134,6 +8124,25 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-3 .hero-content-wrapper .hero-content .hero-subheading {
+  margin: 0;
+}
+
+.fw-slider-hero .fw-slide-4 {
+  background: url(https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+  background-size: cover;
+  background-position: 50%;
+}
+
+.fw-slider-hero .fw-slide-4 .bg-overlay {
+  background: rgba(17, 17, 17, 0.75);
+}
+
+.fw-slider-hero .fw-slide-4 .hero-content-wrapper .hero-content .hero-lead {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.fw-slider-hero .fw-slide-4 .hero-content-wrapper .hero-content .hero-subheading {
   margin: 0;
 }
 
@@ -8154,7 +8163,7 @@ form .input-error-2:focus {
 .fs-video-hero .hero-content-wrapper .hero-content .hero-subheading, .fw-video-hero .hero-content-wrapper .hero-content .hero-subheading {
   margin-top: 100px;
   margin-bottom: 20px;
-  color: #999;
+  color: #000;
 }
 
 /* ---- 20.5 Full Width Video ---- */
@@ -8183,7 +8192,7 @@ form .input-error-2:focus {
 .fw-video-hero .hero-content-wrapper .hero-content .hero-subheading {
   margin-top: 50px;
   margin-bottom: 30px;
-  color: #999;
+  color: #000;
 }
 
 /* ---- 20.6 Text Slider ---- */
@@ -8219,7 +8228,7 @@ form .input-error-2:focus {
 .text-slider-hero .hero-content-wrapper .hero-content .hero-subheading {
   margin-top: 50px;
   margin-bottom: 20px;
-  color: #999;
+  color: #000;
 }
 
 /* ---- 20.7 Freelancer ---- */
@@ -8293,11 +8302,11 @@ form .input-error-2:focus {
 }
 
 .agency-hero .hero-wrapper .hero-content .text-wrapper h4, .agency-hero .hero-wrapper .hero-content .text-wrapper .ft-tabs .tabs-list li a .tab-group .tab-heading, .ft-tabs .tabs-list li a .tab-group .agency-hero .hero-wrapper .hero-content .text-wrapper .tab-heading, .agency-hero .hero-wrapper .hero-content .text-wrapper .testimonials-3col .t-item blockquote footer cite, .testimonials-3col .t-item blockquote footer .agency-hero .hero-wrapper .hero-content .text-wrapper cite, .agency-hero .hero-wrapper .hero-content .text-wrapper .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer .agency-hero .hero-wrapper .hero-content .text-wrapper cite, .agency-hero .hero-wrapper .hero-content .text-wrapper .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer .agency-hero .hero-wrapper .hero-content .text-wrapper cite, .agency-hero .hero-wrapper .hero-content .text-wrapper .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer cite, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer .agency-hero .hero-wrapper .hero-content .text-wrapper cite, .agency-hero .hero-wrapper .hero-content .text-wrapper .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer .agency-hero .hero-wrapper .hero-content .text-wrapper cite, .agency-hero .hero-wrapper .hero-content .text-wrapper .team-3col .t-item .t-info .t-role, .team-3col .t-item .t-info .agency-hero .hero-wrapper .hero-content .text-wrapper .t-role, .agency-hero .hero-wrapper .hero-content .text-wrapper .team-4col .t-item .t-info .t-role, .team-4col .t-item .t-info .agency-hero .hero-wrapper .hero-content .text-wrapper .t-role, .agency-hero .hero-wrapper .hero-content .text-wrapper .freelancer-about .t-item .t-info .t-role, .freelancer-about .t-item .t-info .agency-hero .hero-wrapper .hero-content .text-wrapper .t-role, .agency-hero .hero-wrapper .hero-content .text-wrapper .t-join .t-info .t-role, .t-join .t-info .agency-hero .hero-wrapper .hero-content .text-wrapper .t-role, .agency-hero .hero-wrapper .hero-content .text-wrapper .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .form-content .agency-hero .hero-wrapper .hero-content .text-wrapper .cards-header, .agency-hero .hero-wrapper .hero-content .text-wrapper .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .agency-hero .hero-wrapper .hero-content .text-wrapper .sc-lead {
-  color: #777;
+  color: #fff;
 }
 
 .agency-hero .hero-wrapper .hero-content .text-wrapper p {
-  color: #999;
+  color: #000;
 }
 
 .agency2-hero {
@@ -8405,7 +8414,7 @@ form .input-error-2:focus {
 .animated-hero .hero-content-wrapper .hero-content .hero-subheading {
   margin-top: 50px;
   margin-bottom: 20px;
-  color: #999;
+  color: #000;
 }
 
 /* ---- 20.10 Kenburn Slider ---- */
@@ -8519,13 +8528,13 @@ form .input-error-2:focus {
 .landing-hero .heading-wrapper .subheading {
   margin-bottom: 50px;
   letter-spacing: 4px;
-  color: #999;
+  color: #000;
 }
 
 .landing-hero .heading-wrapper .cta-btn {
   display: block;
   margin-top: 75px;
-  color: #999;
+  color: #000;
 }
 
 .landing-hero .heading-wrapper .cta-btn:hover {
@@ -8576,7 +8585,7 @@ form .input-error-2:focus {
 
 .app-hero .hero-text p {
   margin-bottom: 30px;
-  color: #999;
+  color: #000;
 }
 
 .app-hero .hero-text .btn-light {
@@ -8933,7 +8942,7 @@ form .input-error-2:focus {
   margin-bottom: 0;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   letter-spacing: 2.5px;
-  color: #999;
+  color: #000;
 }
 
 .hover-default .p-hover:hover, .hover-light .p-hover:hover {
@@ -9100,7 +9109,7 @@ form .input-error-2:focus {
 .checkout-table tbody tr .hover-light .p-hover .p-content td:last-child:first-child, .hover-light .p-hover .p-content .prod-reviews .tp-review .tpr-name:last-child,
 .prod-reviews .tp-review .hover-light .p-hover .p-content .tpr-name:last-child, .hover-light .p-hover .p-content p:last-child,
 .hover-light .p-hover .p-content span:last-child {
-  color: #999;
+  color: #000;
 }
 
 .hover-light .open-btn {
@@ -9276,7 +9285,7 @@ form .input-error-2:focus {
   margin: 0;
   font-size: .9em;
   line-height: 1.6;
-  color: #999;
+  color: #000;
   opacity: 0;
   -webkit-transition: opacity 0.6s;
           transition: opacity 0.6s;
@@ -9286,7 +9295,7 @@ form .input-error-2:focus {
   display: block;
   padding-top: 5px;
   font-size: 25px;
-  color: #999;
+  color: #000;
   opacity: 0;
   -webkit-transition: opacity 0.6s, color 0.4s;
           transition: opacity 0.6s, color 0.4s;
@@ -9322,7 +9331,7 @@ form .input-error-2:focus {
   display: block;
   font-size: 24px;
   line-height: 0;
-  color: #999;
+  color: #000;
 }
 
 .portfolio-item.hover-side figure figcaption .hover-btns li a:focus {
@@ -9364,7 +9373,7 @@ form .input-error-2:focus {
 .price-cut {
   margin-right: 5px;
   text-decoration: line-through;
-  color: #999;
+  color: #000;
 }
 
 /* ---- 27.2 Shop Product Card ---- */
@@ -9587,7 +9596,7 @@ form .input-error-2:focus {
 .shop-sidebar .shop-widget .cart-item .cp-name, .shop-sidebar-vertical .shop-widget .cart-item .cp-name {
   padding-top: 8px;
   letter-spacing: 1px;
-  color: #777;
+  color: #fff;
 }
 
 .shop-sidebar .shop-widget .cart-item .cp-name:hover, .shop-sidebar-vertical .shop-widget .cart-item .cp-name:hover {
@@ -9597,12 +9606,12 @@ form .input-error-2:focus {
 .shop-sidebar .shop-widget .cart-item .cp-price, .shop-sidebar-vertical .shop-widget .cart-item .cp-price {
   font-size: 12px;
   letter-spacing: 1px;
-  color: #999;
+  color: #000;
 }
 
 .shop-sidebar .shop-widget .cart-item .cart-remove-btn, .shop-sidebar-vertical .shop-widget .cart-item .cart-remove-btn {
   float: right;
-  color: #777;
+  color: #fff;
 }
 
 .shop-sidebar .shop-widget .cart-item .cart-remove-btn:hover, .shop-sidebar-vertical .shop-widget .cart-item .cart-remove-btn:hover {
@@ -9675,7 +9684,7 @@ form .input-error-2:focus {
   margin-bottom: 5px;
   font-size: .9em;
   letter-spacing: .3px;
-  color: #777;
+  color: #fff;
   border-bottom: 1px solid rgba(17, 17, 17, 0);
   -webkit-transition: all 0.3s;
           transition: all 0.3s;
@@ -9741,13 +9750,13 @@ form .input-error-2:focus {
   margin-bottom: 5px;
   border: 1px solid #ccc;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
-  color: #999;
+  color: #000;
   -webkit-transition: all 0.5s;
           transition: all 0.5s;
 }
 
 .shop-sidebar .tags-widget .tag-list li a:hover, .shop-sidebar-vertical .tags-widget .tag-list li a:hover {
-  border-color: #777;
+  border-color: #fff;
   color: #111;
 }
 
@@ -9928,7 +9937,7 @@ form .input-error-2:focus {
   float: right;
   font-size: 12px;
   letter-spacing: 1px;
-  color: #999;
+  color: #000;
 }
 
 .totals-content .shipping-group {
@@ -9941,7 +9950,7 @@ form .input-error-2:focus {
   font-size: 12px;
   letter-spacing: 0.25px;
   text-decoration: underline;
-  color: #999;
+  color: #000;
 }
 
 .totals-content .shipping-group a:hover {
@@ -9988,7 +9997,7 @@ form .input-error-2:focus {
 }
 
 .product-meta li a {
-  color: #777;
+  color: #fff;
   text-decoration: underline;
 }
 
@@ -10075,7 +10084,7 @@ form .input-error-2:focus {
   font-size: 12px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
-  color: #777;
+  color: #fff;
 }
 
 .prod-name {
@@ -10092,7 +10101,7 @@ form .input-error-2:focus {
   padding-left: 10px;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 14px;
-  color: #999;
+  color: #000;
 }
 
 .prod-rating {
@@ -10110,7 +10119,7 @@ form .input-error-2:focus {
 .prod-rating li:last-child {
   padding-left: 10px;
   font-size: 12px;
-  color: #777;
+  color: #fff;
 }
 
 .prod-rating li a {
@@ -10188,7 +10197,7 @@ form .input-error-2:focus {
   margin-right: 25px;
   display: inline-block;
   font-size: 12px;
-  color: #999;
+  color: #000;
 }
 
 .prod-reviews .tp-review .tpr-rating {
@@ -10211,7 +10220,7 @@ form .input-error-2:focus {
 .prod-reviews .tp-review .tpr-rating li:last-child {
   padding-left: 5px;
   font-size: 12px;
-  color: #999;
+  color: #000;
 }
 
 /* --------------------------------------------------
