@@ -2560,10 +2560,10 @@ fieldset[disabled] .form-control:hover {
 -------------------------------------------------- */
 .navbar {
   margin-bottom: 0;
-  min-height: 75px;
-  border-bottom: 1px solid #ececec;
+  min-height: 100px;
+  border-bottom: 1px solid rgba(36, 36, 36, 0.747);
   border-radius: 0;
-  background: #fff;
+  background: rgba(36, 36, 36, 0.747);
   /* opacity: .8; */
 }
 
@@ -2582,11 +2582,10 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar .navbar-nav li a {
-  text-transform: uppercase;
-  font-size: 0.8em;
+  font-size: 1em;
   font-weight: 400;
   letter-spacing: 2px;
-  color: #999;
+  color: #fff;
   -webkit-transition: color 0.5s;
           transition: color 0.5s;
 }
@@ -2615,7 +2614,7 @@ fieldset[disabled] .form-control:hover {
   right: -8px;
   border-radius: 100px;
   background: #EF413F;
-  color: #fff;
+  color: #111;
   font-size: 10px;
   line-height: 16px;
   text-align: center;
@@ -2651,7 +2650,7 @@ fieldset[disabled] .form-control:hover {
 .navbar .navbar-nav .dropdown .dropdown-menu {
   /* margin-top: 12px;
   padding: 20px 0 10px 0; */
-  border: 1px solid #ececec;
+  border: 1px solid #111;
   border-radius: 0;
   box-shadow: none;
   background: rgba(255, 255, 255, 0.93);
@@ -2723,7 +2722,7 @@ fieldset[disabled] .form-control:hover {
 
 .navbar .navbar-nav .dropdown .cart-dropdown {
   width: 290px;
-  background: #fff;
+  background: #111;
 }
 
 .navbar .navbar-nav .dropdown .cart-dropdown .cart-sep-top {
