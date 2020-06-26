@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add product</title>
+    <link rel="stylesheet" href="assets\styles\bootstrap.min.css">
+    <link rel="stylesheet" href="assets\styles\dropify.min.css">
+</head>
+<body>
+    <div class="container p-5">
+        <form>
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="name">name</label>
+                <input type="text" class="form-control" id="name" placeholder="product name" required>
+              </div>
+              <div class="form-group col-md-6">
+                <label for="price">Price</label>
+                <input type="number" class="form-control" id="price" placeholder="price" required>
+              </div>
+            </div>
+            <div class="form-group col-md-12">
+              <label for="description">Description</label>
+              <textarea name="" id="description" rows="3" style="width: 100%;" required></textarea>
+            </div>
+            <div class="form-group col-md-12">
+                <label for="prop">Properties</label>
+                <textarea name="" id="prop" rows="3" style="width: 100%;" required></textarea>
+            </div>
+            <div class="form-row">
+              <div class="form-group col-md-12">
+                <label for="category">Category</label>
+                <select id="category" class="form-control">
+                  <option value="1" selected>PV Modules</option>
+                  <option value="2">Inverters</option>
+                  <option value="3">UPS</option>
+                  <option value="4">Stabilizers</option>
+                  <option value="5">Batteries</option>
+                  
+                </select>
+              </div>
+            </div>
+            <div class="mt-5 mb-5">
+                <div class="col-12 mt-2">
+                    <h5>Product images</h5>
+                </div>
+                <div class="col-12 mt-2">
+                    <div class="form-group">                                  
+                        <input type="file" id="imageUpload" name="image" class="dropify" data-max-file-size="2M" data-allowed-file-extensions="jpg png jpeg" data-errors-position="outside" multiple required/>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-5 mb-5">
+                <div class="col-12 mt-2">
+                    <h5>Product details File</h5>
+                </div>
+                <div class="col-12 mt-2">
+                    <div class="form-group">                                  
+                        <input type="file" id="fileUpload" name="file" class="dropify" data-max-file-size="2M" data-allowed-file-extensions="jpg png jpeg" data-errors-position="outside" />
+                    </div>
+                </div>
+            </div>
+            
+            <p class="mt-2 " style="margin-right: auto; margin-left: auto;">please note image size must not be more than 2MB</p>
+            <button type="submit" class="btn btn-primary btn-block " id="listProduct">Add product</button>
+        </form>
+    </div>
+    
+
+    <script src="assets\js\jquery.min.js"></script>
+    <script src="assets\js\browser-image-compression.js"></script>
+    <script src="assets\js\sweetalert2.js"></script>
+    <script src="assets\js\dropify.min.js"></script>
+    <script src="assets\js\add-product.js"></script>
+</body>
+</html>
