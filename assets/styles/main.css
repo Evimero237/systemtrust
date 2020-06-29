@@ -8101,12 +8101,17 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-2 .hero-content-wrapper .hero-content .hero-lead {
-  margin-top: 40px;
-  margin-bottom: 50px;
+   margin-bottom: 20px;
+  font-size: 4em;
+  font-weight: 700;
+  letter-spacing: 20px;
+  color: #ececec;
 }
 
 .fw-slider-hero .fw-slide-2 .hero-content-wrapper .hero-content .hero-subheading {
-  margin: 0;
+   margin-top: 0;
+  margin-bottom: 50px;
+  color: #000;
 }
 
 .fw-slider-hero .fw-slide-3 {
@@ -8125,7 +8130,9 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-3 .hero-content-wrapper .hero-content .hero-subheading {
-  margin: 0;
+   margin-top: 0;
+  margin-bottom: 50px;
+  color: #000;
 }
 
 .fw-slider-hero .fw-slide-4 {
@@ -8139,8 +8146,11 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-4 .hero-content-wrapper .hero-content .hero-lead {
-  margin-top: 40px;
-  margin-bottom: 50px;
+   margin-bottom: 20px;
+  font-size: 4em;
+  font-weight: 700;
+  letter-spacing: 20px;
+  color: #ececec;
 }
 
 .fw-slider-hero .fw-slide-4 .hero-content-wrapper .hero-content .hero-subheading {
