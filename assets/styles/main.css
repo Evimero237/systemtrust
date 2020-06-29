@@ -1293,7 +1293,7 @@ h6, .progress-group .progress-title,
 .progress-group .progress-value, .accordions-1 .panel .panel-heading .panel-title, .footer-social-links ul li, .footer-contact .contact-info .show-info-link, .footer-contact .contact-info address ul li .adr-heading, .footer-contact .contact-info address .show-map, .footer-litle address ul li .adr-group .adr-heading, .ft-cards .ft-item a, .ft-cards-2 .ft-card-item .ft-content .link-btn, .ft-boxed-hover ul li .hover-content a, .circles-counters .circle-item .circle-text, .circles-counters-dark-bg .circle-item .circle-text, .number-counters .count-wrapper .count-item .count-text, .number-counters-dark-bg .count-wrapper .count-item .count-text, .project-nav nav .nav-btns li a, .pricing-tables .p-table .desc, .blog-post-nav .prev-btn,
 .blog-post-nav .next-btn, .sidebar .tags-widget .tag-list li a, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group span, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group a,
 .contact-1 .contact-wrapper .contact-info-wrapper address .address-group p, .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link a, .landing-hero .heading-wrapper .cta-btn, .shop-sidebar .filter-widget label, .shop-sidebar-vertical .filter-widget label, .shop-sidebar .tags-widget .tag-list li a, .shop-sidebar-vertical .tags-widget .tag-list li a, .checkout-table tbody tr td:first-child, .prod-reviews .tp-review .tpr-name {
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #111;
   text-transform: uppercase;
 }
@@ -1310,22 +1310,22 @@ h6, .progress-group .progress-title,
 /* ---- 1.2 Headings ---- */
 h1, .comingsoon .content-wrapper .content-inner .cs-timer .item .nbr-timer {
   font-size: 1.7em;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
 }
 
 h2 {
   font-size: 1.5em;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
 }
 
 h3, .page-title .subheading {
   font-size: 1.3em;
-  letter-spacing: 3.5px;
+  letter-spacing: 2px;
 }
 
 h4, .ft-tabs .tabs-list li a .tab-group .tab-heading, .testimonials-3col .t-item blockquote footer cite, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer cite, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer cite, .team-3col .t-item .t-info .t-role, .team-4col .t-item .t-info .t-role, .freelancer-about .t-item .t-info .t-role, .t-join .t-info .t-role, .login-2 .bg-overlay .form-wrapper .form-content .cards-header, .login-2 .bg-overlay .form-wrapper .social-signup .social-card .sc-lead {
   font-size: 1.07em;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
 }
 
 h5, .ft-boxed-hover ul li .hover-content .ft-heading, .ft-tabs .tabs-list li a .tab-group .tab-info, .sidebar .comments-widget .widget-item span .widget-comm-title, .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer, .shop-layout-options span {
@@ -1342,7 +1342,7 @@ h6, .progress-group .progress-title,
 }
 
 .h-alt {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 300;
 }
 
@@ -1387,7 +1387,7 @@ blockquote, .wrapper-404 .content-wrapper .info-wrapper .info-404, .bg-maintenan
 }
 
 blockquote footer, .wrapper-404 .content-wrapper .info-wrapper .info-404 footer, .bg-maintenance .content-wrapper .content-inner p footer {
-  padding-top: 25px;
+  padding-top: 20px;
 }
 
 blockquote footer:before, .wrapper-404 .content-wrapper .info-wrapper .info-404 footer:before, .bg-maintenance .content-wrapper .content-inner p footer:before {
@@ -1474,9 +1474,9 @@ blockquote footer cite, .wrapper-404 .content-wrapper .info-wrapper .info-404 fo
   padding: 8px 38px;
   background: #111;
   color: #ececec;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
-  letter-spacing: 2.5px;
+  letter-spacing: 2px;
   font-size: 0.9em;
   line-height: 1.8em;
   border-radius: 0;
@@ -1686,7 +1686,7 @@ input[class="btn-ghost-light"]:hover {
   height: 42px;
   width: 42px;
   line-height: 1.9em;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #fff;
 }
 
@@ -1774,7 +1774,7 @@ fieldset[disabled] .form-control:hover {
 
 .form-group label {
   font-size: .8em;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #111;
@@ -1793,7 +1793,7 @@ fieldset[disabled] .form-control:hover {
 
 .progress .progress-bar {
   background: #111;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 13px;
   line-height: 1.9em;
   letter-spacing: 1px;
@@ -1977,7 +1977,7 @@ fieldset[disabled] .form-control:hover {
 .page-title .subheading {
   display: block;
   margin: 20px 0 0 0;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 300;
   color: #fff;
 }
@@ -2107,7 +2107,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .copyright small {
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: .8em;
   text-transform: uppercase;
   letter-spacing: 1.3px;
@@ -2684,7 +2684,7 @@ fieldset[disabled] .form-control:hover {
 
 .navbar .navbar-nav .dropdown .dropdown-menu .dropdown-header {
   padding: 0 25px;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 0.8em;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -2806,7 +2806,7 @@ fieldset[disabled] .form-control:hover {
 
 .navbar .navbar-nav .dropdown .cart-dropdown .item-totals span {
   float: right;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   color: #fff;
 }
@@ -2821,7 +2821,7 @@ fieldset[disabled] .form-control:hover {
   padding: 8px 38px;
   background: #111;
   color: #ececec;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
   letter-spacing: 2.5px;
   font-size: 0.9em;
@@ -3266,7 +3266,7 @@ fieldset[disabled] .form-control:hover {
   top: 7px;
   left: 0;
   color: rgba(204, 204, 204, 0.4);
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: lighter;
   font-size: 165px;
 }
@@ -3709,7 +3709,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-tabs .tabs-list li a .tab-group .tab-info {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   letter-spacing: 2px;
   color: #000;
 }
@@ -4163,7 +4163,7 @@ fieldset[disabled] .form-control:hover {
   border-radius: 0;
   border: none;
   border-top: 1px solid transparent;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 11px;
   letter-spacing: 2px;
   color: #000;
@@ -4287,7 +4287,7 @@ fieldset[disabled] .form-control:hover {
 .number-counters .count-wrapper .count-item .count-nbr, .number-counters-dark-bg .count-wrapper .count-item .count-nbr {
   display: block;
   margin-bottom: 30px;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 65px;
   font-weight: lighter;
   color: #ececec;
@@ -4571,13 +4571,13 @@ fieldset[disabled] .form-control:hover {
 }
 
 .testimonials-3col .t-item blockquote footer cite, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer cite, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer cite, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer cite {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #fff;
 }
 
 .testimonials-3col .t-item blockquote footer cite span, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite span, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer cite span, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer cite span, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer cite span {
   display: block;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   letter-spacing: 2px;
   color: #111;
 }
@@ -4849,7 +4849,7 @@ fieldset[disabled] .form-control:hover {
 
 .team-3col .t-item .t-info .t-role, .team-4col .t-item .t-info .t-role, .freelancer-about .t-item .t-info .t-role {
   display: block;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 13px;
   letter-spacing: 3.5px;
   color: #000;
@@ -4964,7 +4964,7 @@ fieldset[disabled] .form-control:hover {
 .t-join .t-info .t-role {
   display: block;
   padding-bottom: 12px;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 12px;
   letter-spacing: 3.5px;
   color: #000;
@@ -5047,7 +5047,7 @@ fieldset[disabled] .form-control:hover {
 .portfolio-filters li a {
   padding: 3px 15px;
   text-transform: uppercase;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: .85em;
   letter-spacing: 2.5px;
   color: #fff;
@@ -5363,7 +5363,7 @@ fieldset[disabled] .form-control:hover {
 .portfolio-columns-fw .portfolio-item figure figcaption .p-content span:last-child, .portfolio-columns-boxed .portfolio-item figure figcaption .p-content span:last-child {
   margin-top: 10px;
   margin-bottom: 0;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   letter-spacing: 2.5px;
   color: #000;
 }
@@ -5722,7 +5722,7 @@ fieldset[disabled] .form-control:hover {
 .portfolio-masonry-3 .p-wrapper .p-hover .p-content p:last-child, .portfolio-masonry .p-wrapper .p-hover .p-content span:last-child, .portfolio-masonry-2 .p-wrapper .p-hover .p-content span:last-child, .portfolio-masonry-3 .p-wrapper .p-hover .p-content span:last-child {
   margin-top: 10px;
   margin-bottom: 0;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   letter-spacing: 2.5px;
   color: #000;
 }
@@ -5807,7 +5807,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .portfolio-1col-fw .portfolio-item figcaption .subheading, .portfolio-1col-boxed .portfolio-item figcaption .subheading {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #000;
   margin-bottom: 45px;
 }
@@ -6260,7 +6260,7 @@ fieldset[disabled] .form-control:hover {
 
 .pricing-tables .p-table .price .value {
   display: inline-block;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 70px;
   color: #111;
 }
@@ -6276,7 +6276,7 @@ fieldset[disabled] .form-control:hover {
   margin-top: 20px;
   margin-bottom: 0;
   padding-bottom: 20px;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #fff;
 }
 
@@ -6524,7 +6524,7 @@ fieldset[disabled] .form-control:hover {
   display: inline-block;
   padding-left: 10px;
   border-left: 1px solid #ececec;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: .75em;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -6631,7 +6631,7 @@ fieldset[disabled] .form-control:hover {
   display: inline-block;
   padding-left: 10px;
   border-left: 1px solid #ececec;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: .75em;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -6748,7 +6748,7 @@ fieldset[disabled] .form-control:hover {
   padding: 0 10px;
   margin-bottom: 5px;
   border: 1px solid #ccc;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #000;
   -webkit-transition: all 0.5s;
           transition: all 0.5s;
@@ -6801,7 +6801,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .sidebar .comments-widget .widget-item span .widget-comm-title {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   letter-spacing: 1.5px;
   color: #fff;
 }
@@ -6856,7 +6856,7 @@ fieldset[disabled] .form-control:hover {
   margin-left: 30px;
   margin-right: 30px;
   text-transform: uppercase;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: .8em;
   letter-spacing: 1.5px;
   color: #ccc;
@@ -6997,7 +6997,7 @@ form .input-error-2:focus {
 .contact-1 .contact-wrapper .contact-info-wrapper address .address-group p {
   display: block;
   margin-bottom: 3px;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 300;
   color: #000;
 }
@@ -7497,7 +7497,7 @@ form .input-error-2:focus {
 }
 
 .comingsoon .content-wrapper .content-inner .cs-timer .item .title-timer {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #fff;
 }
 
@@ -7764,7 +7764,7 @@ form .input-error-2:focus {
 
 .scroller .scroller-text {
   display: block;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 10px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
@@ -7955,7 +7955,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-1 .hero-content .hero-lead {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 6em;
   font-weight: 800;
   letter-spacing: 5px;
@@ -8014,7 +8014,7 @@ form .input-error-2:focus {
 
 .fs-slide-3 .hero-content .hero-lead {
   margin-bottom: 35px;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 4em;
   font-weight: 800;
   letter-spacing: 15px;
@@ -8219,7 +8219,7 @@ form .input-error-2:focus {
 }
 
 .text-slider-hero .hero-content-wrapper .hero-content .hero-lead {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 3em;
   font-weight: 400;
   letter-spacing: 10px;
@@ -8360,7 +8360,7 @@ form .input-error-2:focus {
 
 .agency2-hero .hero-content-wrapper .hero-content .hero-lead {
   margin-top: 0;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 4em;
   font-weight: 400;
   letter-spacing: 10px;
@@ -8469,7 +8469,7 @@ form .input-error-2:focus {
 
 .kenburn-hero .kenburn-slider .hero-wrapper .hero-content .lead-white-bg {
   display: inline-block;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 300;
   font-size: 6em;
   color: #111;
@@ -8618,7 +8618,7 @@ form .input-error-2:focus {
 
 .web-app-hero .hero-content-wrapper .hero-content .hero-lead {
   margin-top: 0;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 70px;
   letter-spacing: 10px;
 }
@@ -8941,7 +8941,7 @@ form .input-error-2:focus {
 .hover-default .p-hover .p-content span:last-child, .hover-light .p-hover .p-content span:last-child {
   margin-top: 10px;
   margin-bottom: 0;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   letter-spacing: 2.5px;
   color: #000;
 }
@@ -9361,7 +9361,7 @@ form .input-error-2:focus {
 -------------------------------------------------- */
 /* ---- 27.1 Shop Layout ---- */
 .shop-layout-options span {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 300;
   color: #111;
 }
@@ -9540,7 +9540,7 @@ form .input-error-2:focus {
 .shop-product-card .product-meta .product-name, .shop-product-card .product-meta .product-price {
   display: block;
   padding: 5px 15px 5px 15px;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 14px;
@@ -9639,7 +9639,7 @@ form .input-error-2:focus {
 }
 
 .shop-sidebar .filter-widget label, .shop-sidebar-vertical .filter-widget label {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 300;
 }
 
@@ -9750,7 +9750,7 @@ form .input-error-2:focus {
   padding: 0 10px;
   margin-bottom: 5px;
   border: 1px solid #ccc;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #000;
   -webkit-transition: all 0.5s;
           transition: all 0.5s;
@@ -9797,7 +9797,7 @@ form .input-error-2:focus {
   padding-top: 23px;
   padding-bottom: 23px;
   border: none;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 11px !important;
   font-weight: 400 !important;
   letter-spacing: 2px;
@@ -9978,7 +9978,7 @@ form .input-error-2:focus {
   margin: 0;
   text-align: right;
   float: right;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 13px;
   letter-spacing: 2px;
 }
@@ -10081,7 +10081,7 @@ form .input-error-2:focus {
 }
 
 .prod-cat {
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 12px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
@@ -10100,7 +10100,7 @@ form .input-error-2:focus {
 
 .prod-price .price-cut {
   padding-left: 10px;
-  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   color: #000;
 }
@@ -10239,7 +10239,7 @@ form .input-error-2:focus {
 .table thead tr th {
   padding: 15px;
   border: none;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 11px !important;
   font-weight: 400 !important;
   letter-spacing: 2px;
